@@ -1,0 +1,27 @@
+User Carbon Report
+-----------------------
+Transport Mode: bike
+Daily Distance: 10 km
+Electricity Usage: 10 kWh/month
+Food Type: veg
+Total Emission: 1040 kg CO2/year
+-----------------------
+
+User Carbon Report
+-----------------------
+Transport Mode: car
+Daily Distance: 5 km
+Electricity Usage: 5 kWh/month
+Food Type: veg
+Total Emission: 934.25 kg CO2/year
+-----------------------
+
+User Carbon Report
+-----------------------
+Transport Mode: car
+Daily Distance: 5 km
+Electricity Usage: 5 kWh/month
+Food Type: veg
+Total Emission: 934.25 kg CO2/year
+-----------------------
+
